@@ -1,0 +1,30 @@
+h3{
+    color:#ffffff;
+    text-align: center;
+    font-size: 30px;
+    
+}
+h4{
+    color:#ffffff;
+    font-size: 20px;
+}
+p{
+    color:#ffffff;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 20px;
+    font-family: Verdana;
+}
+ul{
+    text-align: inherit;
+    font-size: 20px;
+}
+div{
+    border-style: inset;
+    text-align: center;
+    background-color: #808080;
+
+}
+ul{
+    list-style-position: inside;
+}
